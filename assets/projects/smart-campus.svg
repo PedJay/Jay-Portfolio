@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="900" height="520" rx="36" fill="#0b1719"/><circle cx="120" cy="90" r="170" fill="#06b6d4" opacity=".08"/>
+<rect x="80" y="62" width="740" height="396" rx="28" fill="#102326" stroke="#2b464b"/><text x="125" y="116" fill="#fff" font-family="Arial" font-size="27" font-weight="700">Smart Campus Navigation</text>
+<rect x="125" y="145" width="650" height="260" rx="18" fill="#152d31"/><path d="M160 345H740M160 275H740M160 205H740M250 170V380M390 170V380M535 170V380M660 170V380" stroke="#2d5559" stroke-width="2"/>
+<path d="M190 345 C250 315 280 245 345 275 S440 350 500 275 S600 210 710 235" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round"/>
+<circle cx="190" cy="345" r="14" fill="#22c55e"/><circle cx="710" cy="235" r="14" fill="#f59e0b"/><circle cx="500" cy="275" r="14" fill="#8b5cf6"/>
+<rect x="160" y="160" width="175" height="38" rx="12" fill="#0d1c1f"/><text x="180" y="185" fill="#a9c4c7" font-family="Arial" font-size="13">MCA Department</text>
+<rect x="595" y="350" width="130" height="38" rx="12" fill="#0d1c1f"/><text x="615" y="375" fill="#fff" font-family="Arial" font-size="13">MCA Lab</text></svg>

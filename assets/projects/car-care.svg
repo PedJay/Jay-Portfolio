@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="900" height="520" rx="36" fill="#0b1425"/><circle cx="720" cy="95" r="190" fill="#2563eb" opacity=".12"/>
+<rect x="95" y="70" width="710" height="380" rx="30" fill="#111d33" stroke="#2d4164"/><text x="140" y="125" fill="#fff" font-family="Arial" font-size="27" font-weight="700">Car Care</text><text x="140" y="151" fill="#8ea1c4" font-family="Arial" font-size="14">Find • Book • Service</text>
+<rect x="135" y="184" width="340" height="215" rx="20" fill="#17243d"/><path d="M190 328h225l-18-70-42-29H249l-42 29z" fill="url(#g)" opacity=".9"/><circle cx="250" cy="330" r="30" fill="#0b1425" stroke="#91a9d0" stroke-width="8"/><circle cx="365" cy="330" r="30" fill="#0b1425" stroke="#91a9d0" stroke-width="8"/><rect x="235" y="256" width="145" height="40" rx="12" fill="#dbeafe" opacity=".22"/>
+<rect x="510" y="184" width="255" height="62" rx="15" fill="#17243d"/><circle cx="542" cy="215" r="15" fill="#22c55e"/><text x="570" y="221" fill="#fff" font-family="Arial" font-size="15">Nearby service center</text>
+<rect x="510" y="261" width="255" height="62" rx="15" fill="#17243d"/><circle cx="542" cy="292" r="15" fill="#8b5cf6"/><text x="570" y="298" fill="#fff" font-family="Arial" font-size="15">Book an appointment</text>
+<rect x="510" y="338" width="255" height="62" rx="15" fill="#17243d"/><circle cx="542" cy="369" r="15" fill="#06b6d4"/><text x="570" y="375" fill="#fff" font-family="Arial" font-size="15">Secure payment</text></svg>

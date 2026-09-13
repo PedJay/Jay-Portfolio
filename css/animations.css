@@ -1,0 +1,107 @@
+/* =========================================
+   ANIMATION INITIAL STATES
+========================================= */
+
+/*
+    Content starts visible so the site remains
+    usable even if JavaScript is disabled.
+*/
+.hero-content,
+.hero-visual,
+.skill-card,
+.project-card,
+.certificate-card,
+.timeline-item,
+.about-text {
+    will-change: transform, opacity;
+}
+
+
+/* =========================================
+   HERO FLOAT
+========================================= */
+
+.code-card {
+    animation: floatCard 5s ease-in-out infinite;
+}
+
+@keyframes floatCard {
+    0%,100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+
+/* =========================================
+   SCROLL INDICATOR
+========================================= */
+
+.scroll-indicator {
+    animation: scrollBounce 2s ease-in-out infinite;
+}
+
+@keyframes scrollBounce {
+    0%,100% {
+        transform: translate(-50%,0);
+    }
+
+    50% {
+        transform: translate(-50%,8px);
+    }
+}
+
+
+/* =========================================
+   MOBILE MENU ANIMATION
+========================================= */
+
+.nav-links.active {
+    animation: menuReveal .25s ease forwards;
+}
+
+@keyframes menuReveal {
+    from {
+        opacity: 0;
+        transform: translateY(-8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* =========================================
+   REDUCED MOTION
+========================================= */
+
+@media (prefers-reduced-motion: reduce) {
+    .code-card,
+    .scroll-indicator {
+        animation: none !important;
+    }
+}
+
+
+/* =========================================
+   SCROLL REVEAL
+========================================= */
+
+.reveal-on-scroll {
+    opacity: 0;
+    transform: translateY(35px);
+    transition:
+        opacity .75s ease,
+        transform .75s cubic-bezier(.2,.8,.2,1);
+    transition-delay: var(--delay, 0ms);
+}
+
+.reveal-on-scroll.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
