@@ -1,4 +1,4 @@
-# Neeraj Rajbhar — Portfolio
+# Jayesh Pednekar — Portfolio
 
 A responsive portfolio built with HTML, CSS and vanilla JavaScript.
 
@@ -26,7 +26,7 @@ Open `index.html` directly or use VS Code Live Server.
 
 The form uses FormSubmit and sends submissions to:
 
-`neerajrajbhar56@gmail.com`
+`jayeshpednekar480@gmail.com`
 
 On the first real submission, FormSubmit may require email activation/confirmation. After activation, visitors can submit messages through the portfolio without opening an email client.
 
