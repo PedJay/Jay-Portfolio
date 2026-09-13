@@ -11,8 +11,8 @@ A responsive portfolio built with HTML, CSS and vanilla JavaScript.
 - Project cards with custom local illustrations
 - Education timeline
 - Two real certificates only:
-  - Tutedude AI Tools Course — `TD-NEER-AIT-1153`
-  - SciTech Innovation Hackathon 2025
+  - AWS Certification
+  - IBM Certification
 - Contact form connected to FormSubmit
 - Resume download
 - GitHub, LinkedIn and email links
