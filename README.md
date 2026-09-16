@@ -1,4 +1,4 @@
-# Neeraj Rajbhar — Portfolio
+# Jayesh — Portfolio
 
 A responsive portfolio built with HTML, CSS and vanilla JavaScript.
 
@@ -11,8 +11,9 @@ A responsive portfolio built with HTML, CSS and vanilla JavaScript.
 - Project cards with custom local illustrations
 - Education timeline
 - Two real certificates only:
-  - Tutedude AI Tools Course — `TD-NEER-AIT-1153`
-  - SciTech Innovation Hackathon 2025
+  - AWS Certification
+  - IBM Certification
+  - IBM AI Fundamental for Everyday Productivity
 - Contact form connected to FormSubmit
 - Resume download
 - GitHub, LinkedIn and email links
@@ -26,7 +27,7 @@ Open `index.html` directly or use VS Code Live Server.
 
 The form uses FormSubmit and sends submissions to:
 
-`neerajrajbhar56@gmail.com`
+`jayeshpednekar480@gmail.com`
 
 On the first real submission, FormSubmit may require email activation/confirmation. After activation, visitors can submit messages through the portfolio without opening an email client.
 
